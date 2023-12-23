@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kriangkrai Tan
+
 <!--
 **kriangkraitan/kriangkraitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
