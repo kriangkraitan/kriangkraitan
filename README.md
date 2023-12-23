@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Kriangkrai+Tan.;i'm+an+french+guy+with+an+interest+in+programming+&+mathematics+💻.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Kriangkrai+Tan.;I'm+an+thai+guy+with+an+interest+in+programming+&+mathematics+💻.)](https://git.io/typing-svg)
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 <!--
